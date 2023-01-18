@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: linh_vuc_12
+    tables:
+      - name: chi_tiet_pakn
+  
+  - name: linh_vuc_13
+    tables:
+      - name: thong_ke_nv
+
+
